@@ -6,4 +6,6 @@ by ## Languages Used
 - Css
 - materializecss
 -Jquery
-Javascript
+-Javascript
+-php
+-my sql
